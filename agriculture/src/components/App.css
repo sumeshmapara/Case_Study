@@ -1,0 +1,14 @@
+.outer {
+
+    display: flex;
+  
+    justify-content: center;
+  
+    flex-direction: column;
+  
+    text-align: left;
+  
+  }
+  .sumesh{
+      background:skyblue;
+  }

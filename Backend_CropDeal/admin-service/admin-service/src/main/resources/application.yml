@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: admin-service
+    
+eureka:
+  instance:
+    hostname: localhost
+    
